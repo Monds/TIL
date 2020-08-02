@@ -21,3 +21,6 @@ Add unambiguaous imports on the fly 체크
 
 ## 창 전환 시 code completion이 제대로 안될 때
 source root를 mark as source를 해제했다가 다시 해본다.  
+
+## Text file end with a new line
+Editor > General > Save Files > Ensure an empty line at the end of a file on Save
