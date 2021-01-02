@@ -24,3 +24,7 @@ source root를 mark as source를 해제했다가 다시 해본다.
 
 ## Text file end with a new line
 Editor > General > Save Files > Ensure an empty line at the end of a file on Save
+
+## Wildcard import disable
+Editor > Code Style > Java > Imports
+Class count to use import with '*'; 값을 99로 변경
