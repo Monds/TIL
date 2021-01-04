@@ -4,7 +4,7 @@ vm option에 아래 항목 추가
 `-Dsun.java2d.uiScale.enabled=false`
 
 ## Code Completion 대소문자 체크 해제
-Editor > General > Code Completion 에서 Match case 체크 해제
+Editor > General > Code Completion 에서 `Match case` 체크 해제
 
 ## Console font size 변경
 Editor > Color Schema > Console Font
@@ -13,7 +13,7 @@ Editor > Color Schema > Console Font
 spring boot java config 코딩 시에 method chaining 을
 여러 줄로 할때 엔터가 더 들어가는데
 아래 설정으로 변경 시 잘 된다.
-Editor > Code Style > Java > Tab and Indents 의 Continuation indent 값을 4로 변경
+Editor > Code Style > Java > Tab and Indents 의 `Continuation indent` 값을 4로 변경
 
 ## Auto Import
 Editor > General > Auto Import 에서
@@ -27,4 +27,4 @@ Editor > General > Save Files > Ensure an empty line at the end of a file on Sav
 
 ## Wildcard import disable
 Editor > Code Style > Java > Imports
-Class count to use import with '*'; 값을 99로 변경
+`Class count to use import with '*';` 값을 99로 변경
